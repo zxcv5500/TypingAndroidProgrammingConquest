@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TypingAndroidProgrammingConquest</string>
+    <string name="insa">인사</string>
+    <string name="anyoung">안녕</string>
 </resources>
